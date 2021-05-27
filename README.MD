@@ -10,4 +10,4 @@
 4 . **tracked** - this file are tracked by time to time .
 5 . **branch** - It is branch which we are in
 6. git remote add origin url....
-7. 
+7. git push -u origin main 
