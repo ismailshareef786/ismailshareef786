@@ -13,10 +13,15 @@ MARKDOWN GUIDE [basic syntax](https://www.markdownguide.org/cheat-sheet/)
 3.**untracked/** -this files are not tracked /recored any time .
 
 4 . **tracked** - this file are tracked by time to time .
+
 5 . **branch** - It is branch which we are in
+
 6.git init -- for initalising
+
 7. git add <file>
+
 8.  git commit -m "message"
+
 9. git remote add origin url....
 
 10. git push -u origin main 
